@@ -1,0 +1,3 @@
+﻿  Rolling_The_Dice.cpp
+C:\Users\Paweł\source\repos\Rolling_The_Dice\Rolling_The_Dice.cpp(64,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Rolling_The_Dice.vcxproj -> C:\Users\Paweł\source\repos\Rolling_The_Dice\x64\Debug\Rolling_The_Dice.exe
